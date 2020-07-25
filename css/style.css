@@ -1,0 +1,19 @@
+.header, .hero, .body, .bar, .footer {
+  background-color: lightgray;
+  margin-bottom: 10px;
+}
+.box {
+  min-height: 5rem;
+  background-color: cornflowerblue;
+  border-radius: 4px;
+  margin-bottom: .5rem;
+  padding-top: 34px;
+  color: white;
+  text-align: center;   
+}
+.box3 {
+  background-color: salmon;
+}
+.box5 {
+  background-color: aqua;
+}
